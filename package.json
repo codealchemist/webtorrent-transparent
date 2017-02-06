@@ -1,6 +1,6 @@
 {
   "name": "webtorrent-transparent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "WebTorrent plugin to easily set window transparency.",
   "main": "index.js",
   "scripts": {
