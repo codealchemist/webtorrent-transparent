@@ -33,6 +33,8 @@ module.exports = class WebTorrentTransparent {
         document.querySelector('html').style.backgroundColor = 'transparent';
         document.querySelector('body').style.backgroundColor = 'transparent';
         document.querySelector('#body').style.opacity = '${value}';
+        document.querySelector('.content').style.marginTop = '0';
+        document.querySelector('.content').style.paddingTop = '37px';
       `)
     }
   }
